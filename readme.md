@@ -1,10 +1,10 @@
 # João Victor Nogueira 👾
 
-Me chamo João Victor Nogueira, tenho 19 anos, sou de Uberlândia - MG, que é aonde moro atualmente.
+Me chamo João Victor Nogueira, tenho 20 anos e sou de Uberlândia - MG. Que é aonde moro atualmente.
 
-Sou estudante de **Sistemas de Informação** na Universidade de Uberaba - UNIUBE, analista de MIS com experiência em análise de dados, relatórios gerenciais e automação de processos
+Sou estudante de **Sistemas de Informação** na Universidade de Uberaba - UNIUBE, analista de MIS Jr. com experiência em análise de dados, relatórios gerenciais e automação de processos
 
-Sou interessado por transformar dados em decisões estratégicas, atualmente expandindo minha stack com JavaScript e desenvolvimento web, com foco em crescimento profissional na área de engenharia de dados.
+Sou interessado por transformar dados em decisões estratégicas, atualmente expandindo minha stack com JavaScript, Python, R e desenvolvimento web, com foco em crescimento profissional na área de ML engineer.
 
 **Busco sempre aprimorar projetos com foco em desenvolvimento e customização de sistemas, 
 desenvolvendo integrações que conectam sistemas de forma eficiente, reduzem tarefas manuais e aumentam a escalabidade.**
@@ -39,6 +39,24 @@ desenvolvendo integrações que conectam sistemas de forma eficiente, reduzem ta
 - Automação de processos com SQL, Excel, Tableau e Alteryx
 - Suporte estratégico via dashboards e acompanhamento de KPIs
 
+**Desenvolvedor Jr. com foco em automações de AI Agents de voz** - Líder Serviços Financeiros
+- Automações de processos com Python
+- Arquitetura de MCP e JSON Crack
+- Piloto e desenvolvedor de agentes de IA na plataforma de voz ElevenLabs
+- Acompanhamento de desempenho de agentes reais
+- Desenvolvimento web voltado para desempenho de agentes
+
+Control Desk e Estrategista Jr. - Líder Serviços Financeiros
+- Acompanhamento operacional focado em melhoria contínua
+- Suporte de TI voltado para operação callcenter
+- Manipulação de dados para estratégia operacional
+
+Customer Sucess - Apollo Sistemas e Gestão
+- Acompanhamento operacional de desempenho do cliente
+- Suporte omnichannel voltado para plataformas CRM
+- Performance na criação de KPIs voltados para criação e marketing estratégico
+- Suporte de TI com em plataformas locais de usuário
+  
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaovzinncodes-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joaovzinncodes)
